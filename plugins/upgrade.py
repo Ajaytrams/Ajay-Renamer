@@ -54,7 +54,7 @@ async def upgradecm(bot,message):
 	Pay Using Upi I'd ```6382918454@paytm```
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @mRiderDM"""
+        Payment To Admin @Ajaytrams"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("ADMIN 🛂",url = "https://telegram.me/Ajaytrams")], 
         			[InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/v4ohs36w"),
